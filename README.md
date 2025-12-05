@@ -65,7 +65,9 @@ The dataset typically contains the following columns:
 Life-Expectancy-Analysis-
 │
 ├── Life Expectancy Data.csv # Raw dataset
+
 ├── Life_Expectancy.ipynb # Complete analysis notebook
+
 └── README.md # Project documentation
 ---
 
